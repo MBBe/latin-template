@@ -18,6 +18,7 @@
 				<?php
 					/*add includes for banner and blurb here */	
 					include "./LessonMenu-page-Includes/d-menu-blurb.php";
+
 				?>
 				<!-- List of Tutorials below-->
 				<div class="row">
@@ -32,6 +33,7 @@
                 	include "./LessonMenu-page-Includes/B-Resources-link.php";
                 	include "./LessonMenu-page-Includes/A-Resources-link.php";
                 	include "./Template-Includes/d-other-resources.banner.php";
+                	include "./Landingpage_Includes/d-where-to-banner.php";
                 ?>
             </div>
         </main>
